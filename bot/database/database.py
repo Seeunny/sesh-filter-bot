@@ -452,7 +452,7 @@ class Database:
         
         for document in await db_list.to_list(length=600):
             if document["score"] < chat_accuracy:
-                continue
+                pass
             
             if document["chat_id"] in achat_ids:
                 filters.append(document)
