@@ -30,7 +30,7 @@ async def auto_filter(bot, update):
     
     query = re.sub(r"[1-2]\d{3}", "", update.text) # Targetting Only 1000 - 2999 😁
     
-    if len(query) < 2:
+    if len(query) < 1:
         return
     
     results = []
@@ -103,7 +103,7 @@ async def auto_filter(bot, update):
                     continue
             
             if len(results) >= max_results:
-                break
+                pass
             
             if pm_file_chat: 
                 unique_id = filter.get("unique_id")
