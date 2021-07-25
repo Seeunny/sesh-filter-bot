@@ -3,8 +3,7 @@
 An Adv Auto Filter Bot by Cirus Lab
 Created by Adithya Krishnan (Insta : fal3n.4ngel), 
 
-### This File is Licenced Under the name of Cirus Lab ,
-## Unauthorised piracy is punishable offence
+## Unauthorised Forking and copying is a punishable offence.
 
 ## Usage
 
