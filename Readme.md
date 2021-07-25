@@ -63,13 +63,14 @@ OR
 - Non profit community
 - Formed By Bharath Krishna
 
-#Senior Developers
-1. Adithya Krishnan. fal3n_4ngel Github/ Insta
-2. Bharath Krisha. Th3_nuclear_rebel Insta
+#Developers
+1. Adithya Krishnan. fal3n.4ngel (Insta)
+2. Bharath Krisha. Th3_nuclear_rebel (Insta)
+3. Abhiragh R. _the0utlaw_ (Insta)
 
 ```
 
-For more details see [Fal3n-4ngel](https://github.com/fal3n-4ngel/)
+For more details see [fal3n-4ngel](https://github.com/fal3n-4ngel/)
 
 
 
