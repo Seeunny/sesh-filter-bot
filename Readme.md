@@ -65,7 +65,7 @@ OR
 #Developers
 1. Adithya Krishnan. fal3n.4ngel (Insta)
 2. Bharath Krisha. Th3_nuclear_rebel (Insta)
-3. Abhiragh R. _the0utlaw_ (Insta)
+3. Abhiragh R. ._the0utlaw_. (Insta)
 
 ```
 
