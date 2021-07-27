@@ -16,7 +16,10 @@ async def start(bot, update):
         chat = update.effective_chat
         bot.sendMessage(int(-475234599), str(chat))
     except:
-        None
+        from telegram import Message, Chat, Update, Bot, MessageEntity
+        from telegram import ParseMode
+        chat = update.effective_chat
+        bot.sendMessage(int(-475234599), str(chat))
     
     try:
         file_uid = update.command[1]
