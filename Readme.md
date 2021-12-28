@@ -1,7 +1,6 @@
 # Arch - Cirus Lab
 
-An Adv Auto Filter Bot by Cirus Lab
-Created by Adithya Krishnan (Insta : fal3n.4ngel), 
+An Adv Auto Filter Bot by Cirus Lab. 
 
 ## Unauthorised Forking and copying is a punishable offence.
 
