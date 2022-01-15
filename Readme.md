@@ -1,8 +1,10 @@
 # Arch - Cirus Lab
 
-An Adv Auto Filter Bot by Cirus Lab. 
+An Adv Auto Filter Bot.
 
-## Unauthorised Forking and copying is a punishable offence.
+### Note
+   This a modified version of usual filter bot by [AlbertEinsteinTG](https://github.com/AlbertEinsteinTG) . 
+   Added few addtional commands , changed the database code to make the sorting and filtering better.
 
 ## Usage
 
