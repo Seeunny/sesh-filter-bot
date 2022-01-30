@@ -64,9 +64,9 @@ OR
 - Formed By Bharath Krishna
 
 #Developers
-1. Adithya Krishnan. fal3n.4ngel (Insta)
-2. Bharath Krisha. Th3_nuclear_rebel (Insta)
-3. Abhiragh R. _the0utlaw (Insta)
+1. Adithya Krishnan. 
+2. Bharath Krishna.
+3. Abhiragh R. 
 
 ```
 
